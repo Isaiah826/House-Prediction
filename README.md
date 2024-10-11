@@ -1,1 +1,1 @@
-![Hose]("https://github.com/Isaiah826/House-Prediction/blob/main/detached-duplex-nigeria.jpg")
+![Hose]("detached-duplex-nigeria.jpg")
