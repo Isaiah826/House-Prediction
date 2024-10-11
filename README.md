@@ -1,1 +1,1 @@
-![Hose]("detached-duplex-nigeria.jpg")
+![Hose](detached-duplex-nigeria.jpg)
