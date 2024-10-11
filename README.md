@@ -1,1 +1,1 @@
-![Hose](detached-duplex-nigeria.jpg)
+![House Image](detached-duplex-nigeria.jpg)
